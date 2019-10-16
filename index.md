@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Falderal Literate Tests
 
-You can use the [editor on GitHub](https://github.com/Falderal-Tests/falderal-tests.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The aim of the Falderal Tests project is to provide [Falderal][]
+literate tests suites for common programming languages.
+It is primarily intended for
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*   people who want to learn a programming language (and who like reading lots of small examples);
+*   people implementing a programming language, who want to see how conformant their implementation is;
+*   people comparing multiple implementations of the same programming language, to understand how they differ.
 
-### Markdown
+The following properties of Falderal tests make them suited for the above purposes:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Falderal-Tests/falderal-tests.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*   are meant to be readable by humans;
+*   are meant to be executed by machines;
+*   are implementation-independent — they test functionalities, not particular tools.
