@@ -13,3 +13,5 @@ The following properties of Falderal tests make them suited for the above purpos
 *   are meant to be readable by humans;
 *   are meant to be executed by machines;
 *   are implementation-independent — they test functionalities, not particular tools.
+
+[Falderal]: https://catseye.tc/node/Falderal
