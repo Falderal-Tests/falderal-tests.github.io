@@ -10,8 +10,8 @@ It is primarily intended for
 
 The following properties of Falderal tests make them suited for the above purposes:
 
-*   are meant to be readable by humans;
-*   are meant to be executed by machines;
-*   are implementation-independent — they test functionalities, not particular tools.
+*   they're meant to be readable by humans;
+*   they're meant to be executed by machines;
+*   they're implementation-independent — they test functionalities, not particular tools.
 
 [Falderal]: https://catseye.tc/node/Falderal
